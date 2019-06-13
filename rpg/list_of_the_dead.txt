@@ -1,0 +1,14 @@
+Kura sika na kune: 
+klasa postaci: Mage|| level: 7
+Kura krol kun: 
+klasa postaci: Mage|| level: 4
+poziom trudnosci: hard
+Jan: 
+klasa postaci: Mage|| level: 3
+poziom trudnosci: easy
+daw: 
+klasa postaci: Mage|| level: 6
+poziom trudnosci: easy
+dw: 
+klasa postaci: Mage|| level: 3
+poziom trudnosci: normal

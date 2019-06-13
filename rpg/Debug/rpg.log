@@ -1,0 +1,48 @@
+﻿  CityMenu.cpp
+  DefaultStatistics.cpp
+  FightData.cpp
+  FightMenu.cpp
+  FileTxt.cpp
+  FileUse.cpp
+  FileWork.cpp
+  GameOptionMenu.cpp
+  Heroes.cpp
+  Mage.cpp
+D:\programowanie\c++\uz\RPG_console\rpg\CityMenu.cpp(74,13): warning C4244:  "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Mage.cpp(8,46): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Mage.cpp(12,42): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Mage.cpp(13,56): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Mage.cpp(81,47): warning C4244:  "=": konwersja z "double" do "int", możliwa utrata danych
+  MainMenu.cpp
+  Menu.cpp
+  Moster.cpp
+D:\programowanie\c++\uz\RPG_console\rpg\Mage.cpp(101,56): warning C4244:  "=": konwersja z "float" do "int", możliwa utrata danych
+  Paladin.cpp
+D:\programowanie\c++\uz\RPG_console\rpg\Moster.cpp(11,12): warning C4244:  "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Paladin.cpp(18,52): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Paladin.cpp(27,46): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Paladin.cpp(31,47): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Paladin.cpp(32,61): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Paladin.cpp(101,38): warning C4244:  "=": konwersja z "double" do "int", możliwa utrata danych
+  rpg.cpp
+D:\programowanie\c++\uz\RPG_console\rpg\Paladin.cpp(112,53): warning C4244:  "=": konwersja z "double" do "int", możliwa utrata danych
+  ShopMenu.cpp
+  Skeleton.cpp
+D:\programowanie\c++\uz\RPG_console\rpg\rpg.cpp(17,13): warning C4244:  "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Spider.cpp
+  Tief.cpp
+D:\programowanie\c++\uz\RPG_console\rpg\Skeleton.cpp(15,13): warning C4244:  "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Tief.cpp(27,46): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Tief.cpp(31,42): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+  Vampire.cpp
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Warrior.cpp
+D:\programowanie\c++\uz\RPG_console\rpg\Tief.cpp(32,56): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Warrior.cpp(26,46): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Warrior.cpp(30,47): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Warrior.cpp(31,61): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\programowanie\c++\uz\RPG_console\rpg\Warrior.cpp(101,45): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+D:\programowanie\c++\uz\RPG_console\rpg\Warrior.cpp(116,57): warning C4244:  "=": konwersja z "double" do "int", możliwa utrata danych
+  rpg.vcxproj -> D:\programowanie\c++\uz\RPG_console\Debug\rpg.exe

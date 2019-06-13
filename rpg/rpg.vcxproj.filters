@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\menus">
+      <UniqueIdentifier>{fad17cc4-7021-4393-9176-45625563e419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\menus">
+      <UniqueIdentifier>{0a9b67f0-969f-463d-8282-6c84691b5d3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\fileClass">
+      <UniqueIdentifier>{7059cafe-1acd-4218-9799-d13142561344}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\fileClass">
+      <UniqueIdentifier>{9b3021ae-4497-450f-9adc-0fec13fcc629}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\heroes">
+      <UniqueIdentifier>{4d1509ef-28aa-4d11-abad-d75809cac663}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Heroes">
+      <UniqueIdentifier>{1f415ed9-6574-4a6b-85cc-252caac52a7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\monster">
+      <UniqueIdentifier>{8a9b04df-37e4-448d-92cd-0004bfd9bfca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\moster">
+      <UniqueIdentifier>{37c5ac5f-6416-4119-b9b8-66036a7e24b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\data">
+      <UniqueIdentifier>{3defe9fc-fcd3-4b7c-947f-aa02351e5849}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\data">
+      <UniqueIdentifier>{af3ce28c-4b1c-4c1b-afd8-babf7b91d459}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="rpg.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Pliki źródłowe\menus</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Pliki źródłowe\menus</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOptionMenu.cpp">
+      <Filter>Pliki źródłowe\menus</Filter>
+    </ClCompile>
+    <ClCompile Include="FileWork.cpp">
+      <Filter>Pliki źródłowe\fileClass</Filter>
+    </ClCompile>
+    <ClCompile Include="FileTxt.cpp">
+      <Filter>Pliki źródłowe\fileClass</Filter>
+    </ClCompile>
+    <ClCompile Include="FileUse.cpp">
+      <Filter>Pliki źródłowe\fileClass</Filter>
+    </ClCompile>
+    <ClCompile Include="CityMenu.cpp">
+      <Filter>Pliki źródłowe\menus</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage.cpp">
+      <Filter>Pliki źródłowe\heroes</Filter>
+    </ClCompile>
+    <ClCompile Include="Heroes.cpp">
+      <Filter>Pliki źródłowe\heroes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShopMenu.cpp">
+      <Filter>Pliki źródłowe\menus</Filter>
+    </ClCompile>
+    <ClCompile Include="Moster.cpp">
+      <Filter>Pliki źródłowe\moster</Filter>
+    </ClCompile>
+    <ClCompile Include="FightMenu.cpp">
+      <Filter>Pliki źródłowe\menus</Filter>
+    </ClCompile>
+    <ClCompile Include="Spider.cpp">
+      <Filter>Pliki źródłowe\moster</Filter>
+    </ClCompile>
+    <ClCompile Include="Skeleton.cpp">
+      <Filter>Pliki źródłowe\moster</Filter>
+    </ClCompile>
+    <ClCompile Include="Vampire.cpp">
+      <Filter>Pliki źródłowe\moster</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultStatistics.cpp">
+      <Filter>Pliki źródłowe\data</Filter>
+    </ClCompile>
+    <ClCompile Include="FightData.cpp">
+      <Filter>Pliki źródłowe\data</Filter>
+    </ClCompile>
+    <ClCompile Include="Warrior.cpp">
+      <Filter>Pliki źródłowe\heroes</Filter>
+    </ClCompile>
+    <ClCompile Include="Paladin.cpp">
+      <Filter>Pliki źródłowe\heroes</Filter>
+    </ClCompile>
+    <ClCompile Include="Tief.cpp">
+      <Filter>Pliki źródłowe\heroes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Pliki nagłówkowe\menus</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Pliki nagłówkowe\menus</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOptionMenu.h">
+      <Filter>Pliki nagłówkowe\menus</Filter>
+    </ClInclude>
+    <ClInclude Include="FileWork.h">
+      <Filter>Pliki nagłówkowe\fileClass</Filter>
+    </ClInclude>
+    <ClInclude Include="FileTxt.h">
+      <Filter>Pliki nagłówkowe\fileClass</Filter>
+    </ClInclude>
+    <ClInclude Include="FileUse.h">
+      <Filter>Pliki nagłówkowe\fileClass</Filter>
+    </ClInclude>
+    <ClInclude Include="CityMenu.h">
+      <Filter>Pliki nagłówkowe\menus</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero.h">
+      <Filter>Pliki nagłówkowe\Heroes</Filter>
+    </ClInclude>
+    <ClInclude Include="Heroes.h">
+      <Filter>Pliki nagłówkowe\Heroes</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage.h">
+      <Filter>Pliki nagłówkowe\Heroes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopMenu.h">
+      <Filter>Pliki nagłówkowe\menus</Filter>
+    </ClInclude>
+    <ClInclude Include="Moster.h">
+      <Filter>Pliki nagłówkowe\monster</Filter>
+    </ClInclude>
+    <ClInclude Include="FightMenu.h">
+      <Filter>Pliki nagłówkowe\menus</Filter>
+    </ClInclude>
+    <ClInclude Include="Spider.h">
+      <Filter>Pliki nagłówkowe\monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Skeleton.h">
+      <Filter>Pliki nagłówkowe\monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Vampire.h">
+      <Filter>Pliki nagłówkowe\monster</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultStatistics.h">
+      <Filter>Pliki nagłówkowe\data</Filter>
+    </ClInclude>
+    <ClInclude Include="FightData.h">
+      <Filter>Pliki nagłówkowe\data</Filter>
+    </ClInclude>
+    <ClInclude Include="Warrior.h">
+      <Filter>Pliki nagłówkowe\Heroes</Filter>
+    </ClInclude>
+    <ClInclude Include="Paladin.h">
+      <Filter>Pliki nagłówkowe\Heroes</Filter>
+    </ClInclude>
+    <ClInclude Include="Tief.h">
+      <Filter>Pliki nagłówkowe\Heroes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="rpg.rc">
+      <Filter>Pliki zasobów</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
